@@ -56,6 +56,5 @@ This project improved my ability to:
 
 ## 📁 Files
 
-- `pb-sales-data-blank.xlsx`: Raw data used for dashboard  
-- `PowerBI_Dashboard.pbix`: Power BI project file (confidential, redacted if necessary)
+- `pb-sales-data-blank.xlsx`: [pb-sales-data-blank.xlsx](https://github.com/user-attachments/files/19876688/pb-sales-data-blank.xlsx)
 
