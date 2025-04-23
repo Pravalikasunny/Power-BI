@@ -35,11 +35,11 @@ The dashboard provides clear visibility into:
 
 ## 📸 Screenshots
 
-<img width="562" alt="Image" src="https://github.com/user-attachments/assets/8f430d8a-1cf1-4cdf-818d-b9d4e6f08c3c" />
+<img width="608" alt="Image" src="https://github.com/user-attachments/assets/e8b3cdee-6513-43cb-bc2f-27de74b17293" />
 
 <img width="575" alt="Image" src="https://github.com/user-attachments/assets/5ead4d6b-56c1-4bf4-88b4-bd771fafae08" />
 
-<img width="608" alt="Image" src="https://github.com/user-attachments/assets/e8b3cdee-6513-43cb-bc2f-27de74b17293" />
+<img width="562" alt="Image" src="https://github.com/user-attachments/assets/8f430d8a-1cf1-4cdf-818d-b9d4e6f08c3c" />
 
 ## 💡 Future Enhancements
 
