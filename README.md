@@ -2,6 +2,9 @@
 
 Welcome to the Global Sales Performance Dashboard repository! This Power BI project visualizes and analyzes global sales data by geography, team, and individual salesperson performance.
 
+# 🔗 Dashboard Link : 
+https://app.powerbi.com/groups/me/reports/555bc62f-b74f-4aae-add2-58789c77b80c/8450d9340ceb3edf8af2?experience=power-bi&clientSideAuth=0
+
 ## 📋 Project Overview
 
 **Objective**:  
